@@ -24,16 +24,16 @@ Project ini berisi file-file --HTML-- sederhana untuk mempelajari dasar pembuata
 
 ## Tujuan
 - Mengenal struktur dasar HTML
-    - <!DOCTYPE html>
-    - <html>
-    - <head>
-    - <body>
+    - (!DOCTYPE html)
+    - (html)
+    - (head)
+    - (body)
     
 - Belajar menggunakan tag umum seperti:
-    - Heading (<h1> - <h6>)
-    - Paragraf (<p>)
-    - Link (<a>)
-    - Gambar (<img>)
-    - Tabel (<table>)
-    - Formulir <form>
+    - Heading (h1 - h6)
+    - Paragraf (p)
+    - Link (a)
+    - Gambar (img)
+    - Tabel (table)
+    - Formulir (form)
     - dan masih banyak lagi 
